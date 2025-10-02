@@ -4,6 +4,8 @@ Juan Sebastian Gil Sanchez-Ingenieria de Sistemas
 
 Jhoan Smith Yañez Forero-Ingenieria de Sistemas
 
+Juan Sebastián Gordillo Medina-Ingeniería de Sistemas
+
 # Metodologías y criterios para la selección de Oracle NetSuite
 
 La elección de Oracle NetSuite como sistema ERP debe seguir procesos rigurosos 
