@@ -1,3 +1,4 @@
+Joan Nicolás Hernández Ortegón-Ingeniería de Sistemas
 
 # Metodologías y criterios para la selección de Oracle NetSuite
 
