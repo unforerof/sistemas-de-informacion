@@ -1,6 +1,6 @@
 # Resumen de actividad. Visualización y Análisis de Ventas
 
-## Joan Nicolás Hernández Ortegón-Ingeniería de Sistemas
+### Joan Nicolás Hernández Ortegón-Ingeniería de Sistemas
 
 ## 🧩 Actividades Realizadas
 
