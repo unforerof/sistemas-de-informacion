@@ -1,7 +1,5 @@
 # Resumen de actividad. Visualización y Análisis de Ventas
 
-### Joan Nicolás Hernández Ortegón-Ingeniería de Sistemas
-
 ## 🧩 Actividades Realizadas
 
 Durante esta sesión, construimos y analizamos múltiples visualizaciones clave para el dataset `ventas_techstore`, tanto en **Power BI** como en **Tableau**:
