@@ -1,6 +1,9 @@
-# Resumen de actividad. Visualización y Análisis de Ventas
+# Resumen de actividad. Visualización y análisis de ventas
 
-## 🧩 Actividades Realizadas
+![Texto alternativo](https://vidi-corp.com/wp-content/uploads/2023/06/83adcb7e-1050-405f-8e0e-eff5507dd5d7.png)
+
+
+## 🧩 Actividades realizadas
 
 Durante esta sesión, construimos y analizamos múltiples visualizaciones clave para el dataset `ventas_techstore`, tanto en **Power BI** como en **Tableau**:
 
@@ -21,7 +24,7 @@ Durante esta sesión, construimos y analizamos múltiples visualizaciones clave 
 
 ---
 
-## ⚙️ Uso Técnico de las Herramientas
+## ⚙️ Uso técnico de las herramientas
 
 ### 🔹 Power BI
 
