@@ -1,62 +1,78 @@
-# Resumen de actividad. Visualización y análisis de ventas
+## 🧩 Evaluación del Módulo ERP: *Odoo Expenses*
 
-![Texto alternativo](https://vidi-corp.com/wp-content/uploads/2023/06/83adcb7e-1050-405f-8e0e-eff5507dd5d7.png)
+### 🧾 Descripción General
 
+Este proyecto corresponde al taller de **Evaluación de Módulos ERP**, enfocado en analizar el funcionamiento, ventajas y limitaciones del módulo **Odoo Expenses** dentro del contexto de una empresa bancaria ficticia: **Banco Andino S.A.**
 
-## 🧩 Actividades realizadas
-
-Durante esta sesión, construimos y analizamos múltiples visualizaciones clave para el dataset `ventas_techstore`, tanto en **Power BI** como en **Tableau**:
-
-- **Top productos vendidos por cantidad**  
-  Aplicamos filtros Top N y ordenamos por volumen.
-
-- **Total de ventas por mesa**  
-  Evaluamos el rendimiento por punto de atención.
-
-- **Gráfico de líneas: Ventas por mes**  
-  Visualizamos tendencias temporales con campos calculados.
-
-- **Tabla comparativa por vendedor**  
-  Incluimos ventas totales y ticket promedio.
-
-- **Total de ventas por categoría**  
-  Usamos barras y gráficos circulares con porcentajes.
+El trabajo fue desarrollado por el **Equipo 9** en el marco del curso *Sistemas de Información* de la **Universidad Nacional de Colombia**.
 
 ---
 
-## ⚙️ Uso técnico de las herramientas
+### 🎯 Objetivo del Taller
 
-### 🔹 Power BI
-
-- Uso de medidas DAX como `ProductosVendidos = SUM(cantidad)`
-- Aplicación de filtros Top N desde el panel visual
-- Interacción directa con los ejes sin modificar la estructura
-- Visualizaciones dinámicas con segmentadores y filtros contextuales
-
-### 🔹 Tableau
-
-- Creación de campos calculados para ventas y agrupaciones temporales
-- Uso de la tarjeta de marcas para controlar color, etiquetas y ángulos
-- Filtros Top N aplicados desde el menú de campo → pestaña Top
-- Visualizaciones limpias y altamente personalizables
+Evaluar la viabilidad de implementar el módulo **Odoo Expenses** como solución de gestión de gastos corporativos, aplicando una metodología de selección ERP basada en criterios ponderados.
 
 ---
 
-## ⚖️ Comparativa: Power BI vs Tableau
+### 🧠 Metodología
 
-| Aspecto                  | Power BI                              | Tableau                                 |
-|--------------------------|----------------------------------------|------------------------------------------|
-| Aplicación de filtros    | Directa, desde el panel visual         | Requiere navegación por menú de campo    |
-| Creación de medidas      | DAX, con control total                 | Campos calculados, menos expresivos      |
-| Interacción con visuales | Inmediata y contextual                 | Más técnica y estructurada               |
-| Curva de aprendizaje     | Más rápida para usuarios nuevos        | Requiere mayor familiaridad              |
-| Dinamismo                | Segmentadores, filtros cruzados       | Visualmente potente pero menos inmediato |
+Se aplicó una **evaluación ERP estructurada** que consideró los siguientes criterios:
 
-> 🟢 **Power BI destaca por su fluidez en la interacción**, permitiendo aplicar filtros, ordenar datos y construir visualizaciones sin salir del flujo de trabajo. Su panel de filtros es más accesible y su lógica de medidas es más directa para quienes buscan resultados rápidos y funcionales.
+* ⚙️ **Funcionalidad**: Cobertura de procesos de viáticos, reembolsos y control de gastos.
+* 💡 **Facilidad de uso**: Interfaz moderna y adaptable a diferentes roles.
+* 🔗 **Integración**: Conectividad con módulos contables y bancarios.
+* 📈 **Escalabilidad**: Adaptabilidad a organizaciones medianas y grandes.
+* 🧑‍💻 **Soporte y comunidad**: Recursos de Odoo Community y OCA.
+* 💰 **Costos (TCO)**: Evaluación del costo total de propiedad.
+* 🧩 **Personalización**: Flexibilidad del código abierto y desarrollo modular.
+
+También se realizó una **comparación con dos alternativas del mercado**:
+
+* 🏢 *SAP Concur* — Alta automatización y cumplimiento regulatorio, pero de alto costo.
+* 📱 *Zoho Expense* — Fácil adopción y bajo costo, aunque con menor personalización.
 
 ---
 
-## 🧠 Conclusión
+### 🧩 Análisis Funcional
 
-Ambas herramientas son potentes y complementarias, pero en esta actividad quedó claro que **Power BI ofrece una experiencia más intuitiva y dinámica**, especialmente para tareas como filtros Top N, visualización de KPIs y exploración de datos categóricos. Tableau brilla en personalización visual y control técnico, pero requiere más pasos para lograr lo mismo.
+El módulo **Odoo Expenses** permite:
 
+* 📤 Registrar y enviar gastos con recibos adjuntos.
+* ✅ Gestionar aprobaciones jerárquicas.
+* 💼 Integrar gastos con contabilidad, proyectos y ventas.
+* 📊 Generar reportes y dashboards para análisis financiero.
+
+🔒 Se destacan sus mecanismos de **seguridad y trazabilidad**, con control de accesos, roles definidos y auditoría de acciones.
+
+---
+
+### 🏗️ Enfoque Organizacional
+
+El análisis aborda la **transformación organizacional** necesaria para adoptar el sistema:
+
+* 🤝 Fomenta la colaboración entre áreas y la digitalización de procesos.
+* 🧭 Requiere gestión del cambio y capacitación por rol.
+* 📚 Desarrolla habilidades digitales, contables y analíticas.
+* 🧑‍🏫 Promueve una cultura organizacional basada en autonomía y transparencia.
+
+---
+
+### 📊 Principales Hallazgos
+
+* ✅ Odoo Expenses mejora la trazabilidad y reduce errores manuales.
+* ⚙️ Ofrece personalización y flexibilidad a bajo costo.
+* 📉 Requiere configuraciones contables y soporte técnico especializado.
+* 💬 Implica un cambio cultural en la gestión de gastos y flujos de aprobación.
+
+---
+
+### 🧭 Conclusiones y Recomendaciones
+
+* Se recomienda **implementar Odoo Expenses** en el Banco Andino, acompañado de:
+
+  * 🧑‍💻 Personalización técnica y validaciones contables.
+  * 📘 Capacitación diferenciada por roles.
+  * 🔄 Gestión del cambio para mitigar resistencia.
+  * 📈 Monitoreo continuo de KPIs de adopción y eficiencia.
+
+La solución representa una oportunidad para **digitalizar procesos financieros** y fortalecer la **transformación digital** dentro del sector bancario.
