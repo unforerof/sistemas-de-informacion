@@ -1,5 +1,8 @@
 ## 🧩 Evaluación del Módulo ERP: *Odoo Expenses*
 
+![Imagen de marca de Odoo](https://i.ytimg.com/vi/wUBHHc-h2KA/maxresdefault.jpg)
+
+
 ### 🧾 Descripción General
 
 Este proyecto corresponde al taller de **Evaluación de Módulos ERP**, enfocado en analizar el funcionamiento, ventajas y limitaciones del módulo **Odoo Expenses** dentro del contexto de una empresa bancaria ficticia: **Banco Andino S.A.**
