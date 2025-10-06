@@ -1,6 +1,6 @@
 # Resumen de actividad. Visualización y análisis de ventas
 
-![Texto alternativo](https://vidi-corp.com/wp-content/uploads/2023/06/83adcb7e-1050-405f-8e0e-eff5507dd5d7.png)
+![Imagen de Tableu VS Power BI](https://vidi-corp.com/wp-content/uploads/2023/06/83adcb7e-1050-405f-8e0e-eff5507dd5d7.png)
 
 
 ## 🧩 Actividades realizadas
